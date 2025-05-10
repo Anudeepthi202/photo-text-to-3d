@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Virtual environments
+venv*/
+env*/
+
+# Model/Output files
+*.obj
+*.stl
+*.glb
+*.zip
+*.tar
+*.gz
+
+# VSCode settings
+.vscode/
